@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yuanchao Lou | Theoretical Physics</title>
+  <style>
+    body {
+      max-width: 800px;
+      margin: 80px auto;
+      padding: 0 24px;
+      font-family: Arial, sans-serif;
+      line-height: 1.8;
+      color: #222;
+    }
+    h1 { font-size: 36px; }
+    h2 { margin-top: 40px; }
+    a { color: #245a8d; }
+  </style>
+</head>
+<body>
+  <h1>Yuanchao Lou</h1>
+  <p>PhD Student | Theoretical Physics</p>
+
+  <h2>About Me</h2>
+  <p>
+    I am a PhD student interested in theoretical physics,
+    including particle physics, neutrino physics,
+    dark photons, and nuclear physics.
+  </p>
+
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Particle Physics and Phenomenology</li>
+    <li>Neutrino Physics</li>
+    <li>Dark Photons</li>
+    <li>Nuclear Physics</li>
+  </ul>
+
+  <h2>Publications</h2>
+  <p>Publication list coming soon.</p>
+
+  <h2>Projects</h2>
+  <p>Open-source research projects coming soon.</p>
+
+  <h2>Contact</h2>
+  <p>
+    <a href="https://github.com/Yuanchao-Lou">
+      GitHub Profile
+    </a>
+  </p>
+</body>
+</html>
