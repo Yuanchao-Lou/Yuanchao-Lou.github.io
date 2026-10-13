@@ -1,2 +1,2 @@
-# Yuanchao_Lou.github.io
+# Yuanchao-Lou.github.io
 Personal academic website of Yuanchao Lou
